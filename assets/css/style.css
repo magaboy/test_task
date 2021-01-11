@@ -99,6 +99,7 @@ hr {
     font-size: 12px;
     line-height: 20px;
     color: #999999;
+    margin-top: 8px;
 }
 
 .repass_prompt {
@@ -199,6 +200,7 @@ hr {
     height: 20px;
     left: 677px;
     top: 495px;
+    margin-top: 8px;
 
     font-family: Arial;
     font-size: 12px;
